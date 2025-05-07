@@ -15,6 +15,8 @@ The primary goal of this repository is to:
 
 ```
 |-- hacker101/                  # Hacker101 CTFs: https://ctf.hacker101.com/about
+|-- portswiggerwebacademy       # Web Academy hosted by Port Swigger
+    |-- server-side/            # Server-side vulnerabilities
 |-- README.md                   # Documentation for the repository
 ```
 ## How to Use This Repository
